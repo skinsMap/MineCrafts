@@ -23,27 +23,27 @@
   
   "Maps": [
     {
-      "title": "MineCarft pack forest",
-      "mapLink": "https://zonekapp.com/MineCraft/EscapeBedrock.zip",
+      "title": "The White House (Minecraft PE)",
+      "mapLink": "https://skinsmap.github.io/MineCrafts/Minecraft%20PE_%20The%20White%20House.mcworld.zip",
       "isLocked" : false ,
       "coins" : 0 ,
-      "description": "your description her about forest pack",
+      "description": "Minecraft Maps / 3D Art",
       "preview": [
-        "https://ia801900.us.archive.org/2/items/k_prev2/k.jpg",
-        "https://ia801900.us.archive.org/2/items/k_prev2/k.jpg",
-        "https://ia801900.us.archive.org/2/items/k_prev2/k.jpg"
+        "https://static.planetminecraft.com/files/resource_media/screenshot/1818/right-gate-front-1525301065.png",
+        "https://static.planetminecraft.com/files/resource_media/screenshot/1818/front-lawn-4-1525301045.png",
+        "https://static.planetminecraft.com/files/resource_media/screenshot/1818/rose-garden-3-1525301072.png"
       ]
     },
     {
-      "title": "MineCarft Prisson",
-      "mapLink": "https://zonekapp.com/MineCraft/EscapeBedrock.zip",
+      "title": "KitPVP (Alpha)",
+      "mapLink": "https://skinsmap.github.io/MineCrafts/Kit%20PvP%20(Alpha).mcworld.zip",
       "isLocked" : true ,
       "coins" : 200,
-      "description": "your description her about Prisson pack",
+      "description": "Minecraft Maps / Challenge & Adventure",
       "preview": [
-        "https://ia801900.us.archive.org/2/items/k_prev2/k_prev1.jpg",
-        "https://ia801900.us.archive.org/2/items/k_prev2/k.jpg",
-        "https://ia801900.us.archive.org/2/items/k_prev2/k.jpg"
+        "https://static.planetminecraft.com/files/resource_media/screenshot/13025444-screenshot.png,
+        "https://static.planetminecraft.com/files/resource_media/screenshot/12974345-screenshot.png",
+        "https://static.planetminecraft.com/files/resource_media/screenshot/12974346-screenshot.png"
       ]
     }
   ],
